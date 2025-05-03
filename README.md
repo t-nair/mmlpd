@@ -10,14 +10,14 @@ These guides are meant to be entirely self-contained - explainer videos, notes, 
 Pick a project based on your interests and experience and start building!
 
 ## Niches Covered
-* Computer Vision
-* Natural Language Processing
-* Generative AI
-* Reinforcement Learning
-* Time Series Analysis
-* Robotics
-* Recommendation Systems
-* Anomaly Detection
-* Explainable AI (XAI)
-* Federated Learning
-* AGI
+* [Computer Vision](https://github.com/t-nair/ai-project-guides/blob/main/computer_vision/computer_vision.md)
+* [Natural Language Processing](https://github.com/t-nair/ai-project-guides/blob/main/natural_language_processing/nlp.md)
+* [Generative AI](https://github.com/t-nair/ai-project-guides/blob/main/generative_ai/gen-ai.md)
+* [Reinforcement Learning](https://github.com/t-nair/ai-project-guides/blob/main/reinforcement_learning/reinforcement-learning.md)
+* [Time Series Analysis](https://github.com/t-nair/ai-project-guides/blob/main/time_series_analysis/time-series-analysis.md)
+* [Robotics](https://github.com/t-nair/ai-project-guides/blob/main/robotics/robotics.md)
+* [Recommendation Systems](https://github.com/t-nair/ai-project-guides/blob/main/recommendation_systems/recommendation-systems.md)
+* [Anomaly Detection](https://github.com/t-nair/ai-project-guides/blob/main/anomaly_detection/anomaly_detection.md)
+* [Explainable AI (XAI)](https://github.com/t-nair/ai-project-guides/blob/main/explainable_ai/xai.md)
+* [Federated Learning](https://github.com/t-nair/ai-project-guides/blob/main/federated_learning/federated-learning.md)
+* [AGI](https://github.com/t-nair/ai-project-guides/blob/main/agi/agi.md)
