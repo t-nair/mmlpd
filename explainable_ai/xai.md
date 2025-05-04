@@ -197,3 +197,5 @@
 | Evaluate saliency on adversarial examples.                          | Advanced      |
 | Use saliency in model debugging to find biases.                       | Advanced      |
 | Apply saliency to sequence models (RNN/LSTM) inputs.                  | Advanced      |
+
+[![follow banner](https://github.com/user-attachments/assets/d1b3ca08-dfea-403d-b4f1-613cedb83e11)](https://linktr.ee/mlinguist)
