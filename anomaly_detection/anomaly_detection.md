@@ -173,3 +173,5 @@
 | Implement consensus clustering to identify anomalies.               | Advanced      |
 | Develop spatio-temporal clustering for anomalies in sensor networks.| Advanced      |
 | Use clustering to aid training of autoencoders on normal data.    | Advanced      |
+
+[![follow banner](https://github.com/user-attachments/assets/d1b3ca08-dfea-403d-b4f1-613cedb83e11)](https://linktr.ee/mlinguist)
