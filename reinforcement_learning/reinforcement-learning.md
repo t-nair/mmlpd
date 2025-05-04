@@ -173,3 +173,5 @@
 | Combine HRL with intrinsic motivation (curiosity).                      | Advanced      |
 | Implement MAXQ decomposition for a robot task.                           | Advanced      |
 | Use hierarchical policies in multi-agent coordination.                  | Advanced      |
+
+[![follow banner](https://github.com/user-attachments/assets/d1b3ca08-dfea-403d-b4f1-613cedb83e11)](https://linktr.ee/mlinguist)
