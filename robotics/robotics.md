@@ -114,7 +114,7 @@
 | Create a multi-robot SLAM system for mapping large areas.        | Advanced      |
 | Research SLAM in difficult environments (underwater, etc.).       | Advanced      |
 
-### Path Planning (A, RRT)
+### Path Planning (A*, RRT)
 | Project Idea                                                      | Difficulty    |
 |-------------------------------------------------------------------|---------------|
 | Implement A* search on a 2D grid maze.                            | Beginner      |
