@@ -246,3 +246,5 @@
 | Train a seq2seq chatbot with movie dialogues.                   | Advanced      |
 | Apply reinforcement learning to tune dialogue policy.           | Advanced      |
 | Research safety filters for open-domain chatbots.               | Advanced      |
+
+[![follow banner](https://github.com/user-attachments/assets/d1b3ca08-dfea-403d-b4f1-613cedb83e11)](https://linktr.ee/mlinguist)
