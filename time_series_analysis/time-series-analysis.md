@@ -197,3 +197,5 @@
 | Research temporal ensembling for time-series classification.      | Advanced      |
 | Apply Gaussian Processes for uncertainty-aware forecasts.         | Advanced      |
 | Use a Bayesian structural time series model.                      | Advanced      |
+
+[![follow banner](https://github.com/user-attachments/assets/d1b3ca08-dfea-403d-b4f1-613cedb83e11)](https://linktr.ee/mlinguist)
