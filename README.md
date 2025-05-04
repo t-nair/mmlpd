@@ -9,6 +9,9 @@ These guides are meant to be entirely self-contained - explainer videos, notes, 
 
 Pick a project based on your interests and experience and start building!
 
+## NOTE: This is a demo version!
+It took hundreds of hours of in-depth research to fully build out the MMLPD. This demo version has 5 top projects in each niche fully explained (with embedded videos, readings, and other resources). Find out how to gain access to the full database here.
+
 ## Niches Covered
 * [Computer Vision](https://github.com/t-nair/ai-project-guides/blob/main/computer_vision/computer_vision.md)
 * [Natural Language Processing](https://github.com/t-nair/ai-project-guides/blob/main/natural_language_processing/nlp.md)
