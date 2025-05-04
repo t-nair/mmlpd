@@ -25,4 +25,5 @@ Pick a project based on your interests and experience and start building!
 ## Top Picks
 * 
 ## Want to learn more? Check out the channel!
+![follow banner](https://github.com/user-attachments/assets/b5ae6aca-c1bc-401d-95ed-4849fb861e0a)
 
